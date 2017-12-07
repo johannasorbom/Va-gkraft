@@ -6,3 +6,4 @@
 \contentsline {section}{\numberline {5}Bakgrund}{5}{section.5}
 \contentsline {section}{\numberline {6}Diskussion}{5}{section.6}
 \contentsline {section}{\numberline {7}Slutsats}{5}{section.7}
+\contentsline {section}{\numberline {8}K\IeC {\"a}llor}{5}{section.8}
