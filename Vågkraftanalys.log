@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.30)  8 JAN 2018 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.30)  8 JAN 2018 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -667,7 +667,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Wave.png, id=48, 392.46625pt x 128.48pt>
+<Wave.png, id=56, 392.46625pt x 128.48pt>
 File: Wave.png Graphic file (type png)
  <use Wave.png>
 Package pdftex.def Info: Wave.png used on input line 34.
@@ -714,23 +714,19 @@ Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 43.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 43.
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
-
- []
-
-
-LaTeX Warning: Citation `Cruz' on page 4 undefined on input line 46.
-
-
-LaTeX Warning: Citation `IRENA' on page 4 undefined on input line 47.
-
-
-LaTeX Warning: Citation `WEF' on page 4 undefined on input line 48.
-
-
-LaTeX Warning: Citation `Elliott' on page 4 undefined on input line 49.
-
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 46.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 46.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 49.
+ [4]
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 51.
 Package babel Info: Redefining swedish shorthand "~
@@ -740,36 +736,32 @@ Package babel Info: Redefining swedish shorthand "|
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 54.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 56.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 56.
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
+(babel)             in language  on input line 54.
+ [5]
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 62.
+(babel)             in language  on input line 57.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 64.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 64.
-[4]
+(babel)             in language  on input line 58.
+ [6]
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 60.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 65.
+(babel)             in language  on input line 60.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.66 ...ocumentdownloads/publications/wave-energy_
+l.61 ...ocumentdownloads/publications/wave-energy_
                                                   v4_web.pdf)
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -777,90 +769,90 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.67 
+l.62 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (8.44482pt too wide) in paragraph at lines 66--67
+Overfull \hbox (8.44482pt too wide) in paragraph at lines 61--62
 \T1/cmr/m/n/10 (http://www.irena.org/documentdownloads/publications/wave-energy
 $[]\OT1/cmr/m/n/10 4[]\OML/cmm/m/it/10 eb:pdf\OT1/cmr/m/n/10 )$ 
  []
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 63.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 63.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 74.
+(babel)             in language  on input line 69.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 74.
+(babel)             in language  on input line 69.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.76 ...ocumentdownloads/publications/wave-energy_
+l.71 ...ocumentdownloads/publications/wave-energy_
                                                   v4_web.pdf) FÃ¶r att fÃ¥ b...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 76.
+LaTeX Warning: Command \" invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 76.
+LaTeX Warning: Command \r invalid in math mode on input line 71.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.77 
+l.72 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -882,7 +874,7 @@ Missing character: There is no å in font cmr10!
 Missing character: There is no å in font cmr10!
 Missing character: There is no å in font cmr10!
 
-Overfull \hbox (920.30568pt too wide) in paragraph at lines 75--77
+Overfull \hbox (920.30568pt too wide) in paragraph at lines 70--72
 \T1/cmr/m/n/10 på lång sikt. (http://www.irena.org/documentdownloads/publicatio
 ns/wave-energy$[]\OT1/cmr/m/n/10 4[]\OML/cmm/m/it/10 eb:pdf\OT1/cmr/m/n/10 )\OM
 L/cmm/m/it/10 FrattfbttrefrstelsefrdeninverkanvgkraftkanhapmiljnharEUgttinochsp
@@ -892,13 +884,13 @@ gkraftverk:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Greaves; etal:; \OT1/cmr/m/n/10 20
  []
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 73.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 78.
+(babel)             in language  on input line 73.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.80 ...ocumentdownloads/publications/wave-energy_
+l.75 ...ocumentdownloads/publications/wave-energy_
                                                   v4_web.pdf)\\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -906,124 +898,115 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.81 
+l.76 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (144.55487pt too wide) in paragraph at lines 79--81
+Overfull \hbox (144.55487pt too wide) in paragraph at lines 74--76
 \T1/cmr/m/n/10 un-der-håll, och 5 pro-cent upp-kopp-ling till el-nä-tet. (http:
 //www.irena.org/documentdownloads/publications/wave-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--81
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 81.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 81.
-[5]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.82 ...ocumentdownloads/publications/wave-energy_
+l.77 ...ocumentdownloads/publications/wave-energy_
                                                   v4_web.pdf) Enligt Dave Le...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 82.
+LaTeX Warning: Command \" invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 82.
+LaTeX Warning: Command \r invalid in math mode on input line 77.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.83 
+l.78 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1056,13 +1039,13 @@ Missing character: There is no å in font cmr10!
 Missing character: There is no å in font cmr10!
 Missing character: There is no å in font cmr10!
 
-Overfull \hbox (71.65489pt too wide) in paragraph at lines 82--83
+Overfull \hbox (71.65489pt too wide) in paragraph at lines 77--78
 \T1/cmr/m/n/10 ve-ste-ring-ar från pri-va-ta fö-re-tag. (http://www.irena.org/d
 ocumentdownloads/publications/wave-
  []
 
 
-Overfull \hbox (2480.29404pt too wide) in paragraph at lines 82--83
+Overfull \hbox (2480.29404pt too wide) in paragraph at lines 77--78
 \T1/cmr/m/n/10 energy$[]\OT1/cmr/m/n/10 4[]\OML/cmm/m/it/10 eb:pdf\OT1/cmr/m/n/
 10 )\OML/cmm/m/it/10 EnligtDaveLevitanskommerdettroligtvisattkrvasattstrrefreta
 ggrinochinvesterariutvecklingenfrattdenskatafartpsammasttsomutvecklingenavvindk
@@ -1076,117 +1059,127 @@ rna:\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 :
  []
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 78.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 78.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 78.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 78.
+[7]
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 79.
+
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.85 ...ocumentdownloads/publications/wave-energy_
+l.80 ...ocumentdownloads/publications/wave-energy_
                                                   v4_web.pdf) Genom att infÃ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \r invalid in math mode on input line 85.
+LaTeX Warning: Command \r invalid in math mode on input line 80.
 
 
-LaTeX Warning: Command \" invalid in math mode on input line 85.
+LaTeX Warning: Command \" invalid in math mode on input line 80.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.86 
+l.81 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1224,13 +1217,13 @@ Missing character: There is no ä in font cmr10!
 Missing character: There is no å in font cmr10!
 Missing character: There is no ä in font cmr10!
 
-Overfull \hbox (114.2556pt too wide) in paragraph at lines 85--86
+Overfull \hbox (114.2556pt too wide) in paragraph at lines 80--81
 \T1/cmr/m/n/10 som ut-veck-las för havs-ba-se-ra-de vind-kraft. (http://www.ire
 na.org/documentdownloads/publications/wave-
  []
 
 
-Overfull \hbox (1915.82968pt too wide) in paragraph at lines 85--86
+Overfull \hbox (1915.82968pt too wide) in paragraph at lines 80--81
 \T1/cmr/m/n/10 energy$[]\OT1/cmr/m/n/10 4[]\OML/cmm/m/it/10 eb:pdf\OT1/cmr/m/n/
 10 )\OML/cmm/m/it/10 Genomattinfraprojectmedbdevindochvgkraftskullekostnadernaf
 rdettakunnaminskasochteknikernaskullekunnakomplementeravarandraddevgkraftkanpro
@@ -1242,60 +1235,66 @@ erlttillgngligplatsihamnenrettalternativttillvgagngsstt:$
  []
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 82.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 87.
+(babel)             in language  on input line 82.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 83.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 83.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 83.
+[8]
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 86.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 86.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 88.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 88.
+Package babel Info: Redefining swedish shorthand "|
+(babel)             in language  on input line 88.
+Package babel Info: Redefining swedish shorthand "~
+(babel)             in language  on input line 88.
+ [9]
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 91.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 91.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 93.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 93.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 95.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 95.
 
-Overfull \hbox (42.21837pt too wide) in paragraph at lines 96--102
+Overfull \hbox (42.21837pt too wide) in paragraph at lines 92--98
 \T1/cmr/m/n/10 1. []$https : / / link-[]springer-[]com . focus . lib . kth . se
  / content / pdf / 10 . 1007 % 2F978-[]3-[]540-[]74895-[]3 .
  []
 
 
-Overfull \hbox (14.2246pt too wide) in paragraph at lines 96--102
+Overfull \hbox (14.2246pt too wide) in paragraph at lines 92--98
 \T1/cmr/m/n/10 4. []$http : / / www . irena . org / documentdownloads / publica
 tions / wave-[]energy _ v4 _ web .
  []
 
 
-Overfull \hbox (111.6729pt too wide) in paragraph at lines 96--102
+Overfull \hbox (111.6729pt too wide) in paragraph at lines 92--98
 \T1/cmr/m/n/10 pdf$[] 5. https://www.fortum.com/countries/se/om-fortum/energi-p
 roduktion/vagkraft/pages/default.aspx
  []
 
 
-Overfull \hbox (4.31023pt too wide) in paragraph at lines 96--102
+Overfull \hbox (4.31023pt too wide) in paragraph at lines 92--98
 \T1/cmr/m/n/10 6. http://www.lansstyrelsen.se/uppsala/SiteCollectionDocuments/S
 v/miljo-och-
  []
 
 
-Overfull \hbox (25.7428pt too wide) in paragraph at lines 96--102
+Overfull \hbox (25.7428pt too wide) in paragraph at lines 92--98
 \T1/cmr/m/n/10 klimat/klimat-och-energi/fornybar-energi/vagkraft/infoblad-om-va
 gkraft-seabsed.pdf 
  []
 
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 102.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 102.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 102.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 102.
-[6] (./VaÌŠgkraftanalys.bbl
+(./VaÌŠgkraftanalys.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
@@ -1304,31 +1303,31 @@ LaTeX Warning: Empty `thebibliography' environment on input line 10.
 
  (VaÌŠgkraftanalys.fff) AED endfloat: Processing end Figures and Tables
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 
-[7] (./VaÌŠgkraftanalys.lof)
+[10] (./VaÌŠgkraftanalys.lof)
 \tf@lof=\write7
 \openout7 = `VaÌŠgkraftanalys.lof'.
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 119.
- [8
+(babel)             in language  on input line 115.
+ [11
 
 
 ] (./VaÌŠgkraftanalys.fff
-<globalmean.png, id=129, 627.34375pt x 403.5075pt>
+<globalmean.png, id=145, 627.34375pt x 403.5075pt>
 File: globalmean.png Graphic file (type png)
  <use globalmean.png>
 Package pdftex.def Info: globalmean.png used on input line 3.
@@ -1338,79 +1337,61 @@ Overfull \hbox (31.40915pt too wide) in paragraph at lines 3--4
 [][] 
  []
 
-<Technologies.png, id=130, 491.8375pt x 397.485pt>
+<Technologies.png, id=146, 491.8375pt x 397.485pt>
 File: Technologies.png Graphic file (type png)
  <use Technologies.png>
 Package pdftex.def Info: Technologies.png used on input line 10.
 (pdftex.def)             Requested size: 295.10477pt x 238.49283pt.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 115.
 
-[9
+[12
 
  <./globalmean.png> <./Technologies.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
  (./VaÌŠgkraftanalys.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
-
-
-Package rerunfilecheck Warning: File `VaÌŠgkraftanalys.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `VaÌŠgkraftanalys.out':
-(rerunfilecheck)             Before: FB02B0746873BE387961F9A8CEB4D590;556
-(rerunfilecheck)             After:  91C04F4CBC073BD5BE72A12B72DC5FAA;805.
-
-LaTeX Warning: There were undefined references.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+Package rerunfilecheck Info: File `VaÌŠgkraftanalys.out' has not changed.
+(rerunfilecheck)             Checksum: 7A9140FD0900EABC9AF37332208B4984;735.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 115.
  ) 
 Here is how much of TeX's memory you used:
- 7051 strings out of 492995
- 98783 string characters out of 6132703
- 196403 words of memory out of 5000000
- 10459 multiletter control sequences out of 15000+600000
+ 7047 strings out of 492995
+ 98748 string characters out of 6132703
+ 198405 words of memory out of 5000000
+ 10457 multiletter control sequences out of 15000+600000
  16825 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,7n,32p,1183b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.5.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2
-017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on VaÌŠgkraftanalys.pdf (9 pages, 2361127 bytes).
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on VaÌŠgkraftanalys.pdf (12 pages, 2362939 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 104 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 199 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
