@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.30)  8 JAN 2018 17:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.30)  8 JAN 2018 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -667,7 +667,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Wave.png, id=56, 392.46625pt x 128.48pt>
+<Wave.png, id=52, 392.46625pt x 128.48pt>
 File: Wave.png Graphic file (type png)
  <use Wave.png>
 Package pdftex.def Info: Wave.png used on input line 34.
@@ -731,17 +731,11 @@ Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 51.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 51.
-
-
-LaTeX Warning: Citation `Fortum' on page 5 undefined on input line 54.
-
-
-LaTeX Warning: Citation `Yale' on page 5 undefined on input line 54.
-
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 57.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 57.
+
 ! Undefined control sequence.
 l.58 ...s grafiskt i figur \ref{Globalmean} \citep
                                                   {Cruz}.
@@ -768,33 +762,18 @@ Package babel Info: Redefining swedish shorthand "|
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 65.
 [5]
-
-LaTeX Warning: Citation `Yale' on page 6 undefined on input line 66.
-
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 69.
-
-LaTeX Warning: Citation `Vattenfall' on page 6 undefined on input line 70.
-
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 72.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 72.
-
-LaTeX Warning: Citation `Yale' on page 6 undefined on input line 73.
-
-
-LaTeX Warning: Citation `Yale' on page 6 undefined on input line 76.
-
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 78.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 78.
-
-LaTeX Warning: Citation `Yale' on page 6 undefined on input line 79.
-
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 80.
 Package babel Info: Redefining swedish shorthand "~
@@ -803,7 +782,7 @@ Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 80.
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 80.
-[6]
+ [6]
 Package babel Info: Redefining swedish shorthand "|
 (babel)             in language  on input line 81.
 Package babel Info: Redefining swedish shorthand "~
@@ -813,51 +792,35 @@ Package babel Info: Redefining swedish shorthand "|
 Package babel Info: Redefining swedish shorthand "~
 (babel)             in language  on input line 85.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 89.
-
-Overfull \hbox (42.21837pt too wide) in paragraph at lines 90--96
-\T1/cmr/m/n/10 1. []$https : / / link-[]springer-[]com . focus . lib . kth . se
- / content / pdf / 10 . 1007 % 2F978-[]3-[]540-[]74895-[]3 .
- []
-
-
-Overfull \hbox (14.2246pt too wide) in paragraph at lines 90--96
-\T1/cmr/m/n/10 4. []$http : / / www . irena . org / documentdownloads / publica
-tions / wave-[]energy _ v4 _ web .
- []
-
-
-Overfull \hbox (111.6729pt too wide) in paragraph at lines 90--96
-\T1/cmr/m/n/10 pdf$[] 5. https://www.fortum.com/countries/se/om-fortum/energi-p
-roduktion/vagkraft/pages/default.aspx
- []
-
-
-Overfull \hbox (4.31023pt too wide) in paragraph at lines 90--96
-\T1/cmr/m/n/10 6. http://www.lansstyrelsen.se/uppsala/SiteCollectionDocuments/S
-v/miljo-och-
- []
-
-
-Overfull \hbox (25.7428pt too wide) in paragraph at lines 90--96
-\T1/cmr/m/n/10 klimat/klimat-och-energi/fornybar-energi/vagkraft/infoblad-om-va
-gkraft-seabsed.pdf 
- []
-
+(babel)             in language  on input line 88.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 96.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 96.
-Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 96.
-Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 96.
-[7] (./Vågkraftanalys.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 19--21
+(babel)             in language  on input line 88.
+ [7] (./Vågkraftanalys.bbl
+Underfull \hbox (badness 1953) in paragraph at lines 19--22
+[]\T1/cmr/m/n/10 Fortum, \T1/cmr/m/it/10 Fr�-gor och svar om v�g-kraft\T1/cmr/m
+/n/10 , []$https : / / corporate . vattenfall . se /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+\T1/cmr/m/n/10 press-[]och-[]media / nyheter / import-[]nyheter / fragor-[]och-
+[]svar-[]om-[]vagkraft/$[],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 []\T1/cmr/m/n/10 Wind Ener-gy Founda-tion, \T1/cmr/m/it/10 Histo-ry of wind ene
 r-gy\T1/cmr/m/n/10 , []$http : / /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+[]\T1/cmr/m/n/10 Vattenfall, \T1/cmr/m/it/10 V�r ener-gi-pro-duk-tion\T1/cmr/m/
+n/10 , []$https : / / www . fortum . se / om-[]oss /
  []
 
 )
@@ -865,31 +828,31 @@ r-gy\T1/cmr/m/n/10 , []$http : / /
 
  (Vågkraftanalys.fff) AED endfloat: Processing end Figures and Tables
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 
 [8] (./Vågkraftanalys.lof)
 \tf@lof=\write7
 \openout7 = `Vågkraftanalys.lof'.
 
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
  [9
 
 
 ] (./Vågkraftanalys.fff
-<globalmean.png, id=159, 627.34375pt x 403.5075pt>
+<globalmean.png, id=162, 627.34375pt x 403.5075pt>
 File: globalmean.png Graphic file (type png)
  <use globalmean.png>
 Package pdftex.def Info: globalmean.png used on input line 3.
@@ -899,42 +862,38 @@ Overfull \hbox (31.40915pt too wide) in paragraph at lines 3--4
 [][] 
  []
 
-<Technologies.png, id=160, 491.8375pt x 397.485pt>
+<Technologies.png, id=163, 491.8375pt x 397.485pt>
 File: Technologies.png Graphic file (type png)
  <use Technologies.png>
 Package pdftex.def Info: Technologies.png used on input line 10.
 (pdftex.def)             Requested size: 295.10477pt x 238.49283pt.
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "|
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 Package babel Info: Redefining swedish shorthand "~
-(babel)             in language  on input line 113.
+(babel)             in language  on input line 106.
 
 [10
 
  <./globalmean.png> <./Technologies.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (./Vågkraftanalys.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
 Package rerunfilecheck Info: File `Vågkraftanalys.out' has not changed.
-(rerunfilecheck)             Checksum: 7A9140FD0900EABC9AF37332208B4984;735.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+(rerunfilecheck)             Checksum: D1CDCEF39110BFE70B74688ACF376546;690.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 7056 strings out of 492995
- 98826 string characters out of 6132703
- 196512 words of memory out of 5000000
- 10464 multiletter control sequences out of 15000+600000
+ 7057 strings out of 492995
+ 98841 string characters out of 6132703
+ 196652 words of memory out of 5000000
+ 10463 multiletter control sequences out of 15000+600000
  16825 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,7n,32p,1482b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -949,10 +908,10 @@ texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texliv
 e/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Vågkraftanalys.pdf (10 pages, 2361435 bytes).
+Output written on Vågkraftanalys.pdf (10 pages, 2361444 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 120 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -11,4 +11,3 @@
 \contentsline {subsection}{\numberline {6.4}Infrastruktur}{6}{subsection.6.4}
 \contentsline {subsection}{\numberline {6.5}Planering och licenser}{7}{subsection.6.5}
 \contentsline {section}{\numberline {7}Avslutande diskussion och slutsats}{7}{section.7}
-\contentsline {section}{\numberline {8}K\IeC {\"a}llor}{7}{section.8}
