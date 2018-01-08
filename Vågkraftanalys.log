@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.30)  8 JAN 2018 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.11.30)  8 JAN 2018 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -890,13 +890,13 @@ Package rerunfilecheck Info: File `Vågkraftanalys.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 7058 strings out of 492995
- 98856 string characters out of 6132703
+ 7054 strings out of 492995
+ 98799 string characters out of 6132703
  196652 words of memory out of 5000000
- 10464 multiletter control sequences out of 15000+600000
+ 10460 multiletter control sequences out of 15000+600000
  16825 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,32p,1482b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,32p,1728b,381s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
@@ -908,7 +908,7 @@ texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texl
 ive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texliv
 e/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Vågkraftanalys.pdf (10 pages, 2361749 bytes).
+Output written on Vågkraftanalys.pdf (10 pages, 2361959 bytes).
 PDF statistics:
  213 PDF objects out of 1000 (max. 8388607)
  183 compressed objects within 2 object streams
