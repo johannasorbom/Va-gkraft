@@ -3,12 +3,12 @@
 \contentsline {section}{\numberline {2}Inledning}{4}{section.2}
 \contentsline {section}{\numberline {3}Metod}{4}{section.3}
 \contentsline {section}{\numberline {4}V\IeC {\r a}gkraft idag}{5}{section.4}
-\contentsline {section}{\numberline {5}V\IeC {\r a}gkraftens potential}{6}{section.5}
-\contentsline {section}{\numberline {6}Drivkrafter och barri\IeC {\"a}rer}{7}{section.6}
-\contentsline {subsection}{\numberline {6.1}Teknik}{7}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Milj\IeC {\"o}p\IeC {\r a}verkan}{7}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}Ekonomi}{7}{subsection.6.3}
-\contentsline {subsection}{\numberline {6.4}Infrastruktur}{8}{subsection.6.4}
-\contentsline {subsection}{\numberline {6.5}Planering och licenser}{8}{subsection.6.5}
-\contentsline {section}{\numberline {7}Avslutande diskussion och slutsats}{9}{section.7}
-\contentsline {section}{\numberline {8}K\IeC {\"a}llor}{10}{section.8}
+\contentsline {section}{\numberline {5}V\IeC {\r a}gkraftens potential}{5}{section.5}
+\contentsline {section}{\numberline {6}Drivkrafter och barri\IeC {\"a}rer}{5}{section.6}
+\contentsline {subsection}{\numberline {6.1}Teknik}{6}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Milj\IeC {\"o}p\IeC {\r a}verkan}{6}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Ekonomi}{6}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Infrastruktur}{6}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Planering och licenser}{7}{subsection.6.5}
+\contentsline {section}{\numberline {7}Avslutande diskussion och slutsats}{7}{section.7}
+\contentsline {section}{\numberline {8}K\IeC {\"a}llor}{8}{section.8}
